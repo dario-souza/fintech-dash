@@ -7,10 +7,9 @@ Bem-vindo ao **Fintech Dashboard**, um projeto de visualização de dados desenv
 Este projeto foi desenvolvido utilizando:  
 - **React** para a criação de interfaces dinâmicas e reativas.  
 - **Vite**, uma ferramenta moderna para build e desenvolvimento rápido.  
-- **Chart.js** para a geração dos gráficos interativos.  
-- **Axios** para consumir os dados da API pública:  
+- **Recharts.js** para a geração dos gráficos interativos.  
   [https://data.origamid.dev/vendas/?inicio=${start}&final=${final}](https://data.origamid.dev/vendas/?inicio=${start}&final=${final}).  
-- **Tailwind CSS** para estilização rápida e responsiva.  
+- **CSS-Puro** para estilização rápida e responsiva.(sem necessidade de usar framework css)  
 
 ## 📈 Funcionalidades  
 
@@ -33,5 +32,8 @@ O dashboard oferece:
    ```bash
    npm install
    ```
+   ## Print
+   ![image](https://github.com/user-attachments/assets/152ebe10-38d1-4bce-8d4e-a185d37d61b8)
+
   ## 🤝 Contribuições
 Contribuições são muito bem-vindas! Se tiver sugestões ou melhorias, fique à vontade para abrir uma issue ou enviar um pull request.
